@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/home"
+            android:icon="@drawable/baseline_home_24"
+            android:title="@string/Home_string" />
+        <item
+            android:id="@+id/book"
+            android:icon="@drawable/baseline_book_24"
+            android:title="@string/Book_string" />
+
+        <item
+            android:id="@+id/dictionary"
+            android:icon="@drawable/baseline_library_books_24"
+            android:title="@string/Dictionary_string" />
+
+        <item
+            android:id="@+id/readBooks"
+            android:icon="@drawable/baseline_check_24"
+            android:title="@string/Read_Books_string" />
+        <item
+            android:id="@+id/toreadBooks"
+            android:icon="@drawable/baseline_access_time_24"
+            android:title="@string/To_Read_Books_string" />
+        <item
+            android:id="@+id/favouriteBooks"
+            android:icon="@drawable/baseline_favorite_border_24"
+            android:title="@string/Favourite_Books_string" />
+
+        <item
+            android:id="@+id/UploadBook"
+            android:icon="@drawable/baseline_cloud_upload_24"
+            android:title="@string/Upload_Book_string" />
+
+        <item
+            android:id="@+id/About"
+            android:icon="@drawable/baseline_info_24"
+            android:title="@string/About_string" />
+
+        <item
+            android:id="@+id/settings"
+            android:icon="@drawable/baseline_app_settings_alt_24"
+            android:title="@string/settings_string" />
+
+        <item
+            android:id="@+id/SignOut"
+            android:icon="@drawable/baseline_thumb_down_24"
+            android:title="@string/Sign_Out_string" />
+    </group>
+</menu>

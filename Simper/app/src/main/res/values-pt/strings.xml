@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Home_string">Página Principal</string>
+    <string name="Book_string">Livro</string>
+    <string name="Dictionary_string">Dicíonario</string>
+    <string name="Read_Books_string">Livros lidos</string>
+    <string name="To_Read_Books_string">Livros a ler</string>
+    <string name="Favourite_Books_string">"Livros favouritos "</string>
+    <string name="Upload_Book_string">Carregar Livro</string>
+    <string name="About_string">Sobre</string>
+    <string name="settings_string">Definições</string>
+    <string name="Sign_Out_string">Terminar sessão</string>
+    <string name="Previous_string">Anterior</string>
+    <string name="Next_string">Proximo</string>
+    <string name="Upload_your_book_string">Carrega o teu Epub aqui</string>
+    <string name="English_Dictionary_string">Dicionario Ingles</string>
+    <string name="Pick_File_string">Escolhe o Ficheiro</string>
+    <string name="Read_Settings_string">Definições de leitura</string>
+    <string name="Text_Size_string">Tamanho da letra</string>
+    <string name="Book_Background_Color_string">Fundo de leitura</string>
+    <string name="Text_Color_string">Cor do texto</string>
+    <string name="Welcome_String">Bem vindo ao LibroVerse</string>
+    <string name="Login_text_string">Iniciar sessão</string>
+    <string name="Password_string">Palavra-passe</string>
+    <string name="Splash_screen_string">Abre novos capitulos, em qualquer lado em qualquer altura</string>
+    <string name="Defenitions_string">Definições</string>
+    <string name="Synonyms_string">Sinonimos</string>
+    <string name="Antonyms_string">Antonimos</string>
+    <string name="dont_have_account_string">Não tens conta, clica aqui!!!</string>
+</resources>

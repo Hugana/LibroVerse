@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1041426291055",
+    "project_id": "dam-projeto-final",
+    "storage_bucket": "dam-projeto-final.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041426291055:android:4b688c69b989059c69709a",
+        "android_client_info": {
+          "package_name": "com.example.simper"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwiJKw2qE07cMMR989gGnRWCLefS1J8qk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

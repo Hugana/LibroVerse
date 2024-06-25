@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name" translatable="false">LibroVerse</string>
+    <string name="open_navigation" translatable="false">Open Navigation</string>
+    <string name="close_navigation" translatable="false">Close Navigation</string>
+    <string name="scrollable_description" translatable="false">Close Navigation</string>
+    <string name="title_activity_about" translatable="false">AboutActivity</string>
+    <string name="Home_string">Home</string>
+    <string name="Book_string">Book</string>
+    <string name="Dictionary_string">Dictionary</string>
+    <string name="Read_Books_string">Read Books</string>
+    <string name="To_Read_Books_string">To Read Books</string>
+    <string name="Favourite_Books_string">Favourite Books</string>
+    <string name="Upload_Book_string">Upload Book</string>
+    <string name="About_string">About</string>
+    <string name="settings_string">Settings</string>
+    <string name="Sign_Out_string">Sign Out</string>
+
+    <string name="Previous_string">Previous</string>
+    <string name="Next_string">Next</string>
+    <string name="Upload_your_book_string">Upload your Epub Book here</string>
+    <string name="English_Dictionary_string">English Dictionary</string>
+    <string name="Pick_File_string">Pick File</string>
+    <string name="Read_Settings_string">Read Settings</string>
+
+
+    <string name="Book_Background_Color_string">Book Background Color (Hex)</string>
+    <string name="Text_Color_string">Text Color (Hex)</string>
+    <string name="Text_Size_string">Text Size</string>
+    <string name="Welcome_String">Welcome to LibroVerse</string>
+    <string name="Login_text_string">Login</string>
+    <string name="Password_string">Password</string>
+    <string name="Splash_screen_string">Open New Chapters,Anywhere,Anytime</string>
+    <string name="Defenitions_string">Definitions</string>
+    <string name="Synonyms_string">Synonyms</string>
+    <string name="Antonyms_string">Antonyms</string>
+    <string name="dont_have_account_string">Don\'t have an account? Click here!!</string>
+
+
+
+
+
+</resources>
